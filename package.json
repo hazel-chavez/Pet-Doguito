@@ -1,0 +1,12 @@
+{
+  "name": "1836-crud_js_async-proyecto_base",
+  "version": "1.0.0",
+  "description": "```js json-server --watch db.json ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
