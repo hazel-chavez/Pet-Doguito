@@ -1,4 +1,4 @@
-const http = require("htpp");
+const http = require("http");
 
 const server = http.createServe((req, res) =>{
     res.writeHead(200, {"Content-Type": "text/plain"});
